@@ -1,7 +1,7 @@
 import type { SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
-  name: "ONE",
+  name: "Team Lycan",
   description:
     "Accellerate with AI. Generate and sell products, services and ideas at the edge.",
   url: "https://one.ie/",
