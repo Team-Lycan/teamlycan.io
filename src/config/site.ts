@@ -3,11 +3,11 @@ import type { SiteConfig } from "@/types";
 export const siteConfig: SiteConfig = {
   name: "Team Lycan",
   description:
-    "Accellerate with AI. Generate and sell products, services and ideas at the edge.",
-  url: "https://one.ie/",
-  ogImage: "https://one.ie/og.jpg",
+    "PEX-TIER MOBILE GAME-FI, EXCLUSIVE TO PULSECHAIN",
+  url: "https://teamlycan.io/",
+  ogImage: "https://teamlycan.io/og.jpg",
   links: {
-    twitter: "https://twitter.com/tonyoconnell",
-    github: "https://github.com/one-ie/ONE",
+    twitter: "https://twitter.com/",
+    github: "https://github.com/",
   },
 };

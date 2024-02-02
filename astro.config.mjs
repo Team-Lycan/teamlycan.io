@@ -9,7 +9,7 @@ import compressor from "astro-compressor";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://new.one.ie",
+  site: "https://teamlycan.io",
   integrations: [mdx({
     syntaxHighlight: "shiki",
     shikiConfig: {
